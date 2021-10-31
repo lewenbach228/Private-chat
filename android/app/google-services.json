@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "235351482311",
+    "project_id": "chat-app-f95a3",
+    "storage_bucket": "chat-app-f95a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235351482311:android:6d091373ddc219f68103e2",
+        "android_client_info": {
+          "package_name": "com.lewenbach228.visit_card"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235351482311-aduv716a7rf3qb1riit4ho73gduci73s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYrebo-Ch7feBhX0f2bomTG1GIIMJn77M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235351482311-aduv716a7rf3qb1riit4ho73gduci73s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
